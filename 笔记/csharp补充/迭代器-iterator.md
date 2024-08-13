@@ -1,6 +1,3 @@
----
-tags: tech
----
 关键接口：`IEnumerator, IEnumerable`
     命名空间：`using System. Collections;`
     可以通过同时继承 `IEnumerable` 和 `IEnumerator` 实现其中的方法
