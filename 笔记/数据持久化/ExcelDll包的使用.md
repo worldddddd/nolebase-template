@@ -259,4 +259,4 @@ public class TowerInfoContainer
 ```
 
 ### Excel数据文件的使用
-![[./BinaryDataMgr.cs|BinaryDataMgr.cs]]
+![[BinaryDataMgr.cs]]
