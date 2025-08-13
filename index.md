@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记/index
+      link: /笔记/csharp补充/反射·笔记
     - theme: alt
       text: GitHub 上浏览
       link: https://github.com/worldddddd/nolebase-template
